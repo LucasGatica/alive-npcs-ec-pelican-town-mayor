@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro",
+  "enabled": true,
+  "title": "",
+  "titleKey": "ec.pelicanTownMayor.scene.intro.title",
+  "location": "Farm",
+  "eventKey": "9702302",
+  "weight": 100,
+  "maxTriggersPerSave": 1,
+  "cooldownDays": 0,
+  "dailyConditions": {
+    "experimentalDialogueModes": [
+      "Lucas.AliveNpcs.EC.PelicanTownMayor/Mayor"
+    ],
+    "chance": 1
+  },
+  "entryConditions": {
+    "time": {
+      "min": 600,
+      "max": 2600
+    }
+  },
+  "scene": {
+    "scriptKey": "ec.pelicanTownMayor.scene.intro.script",
+    "script": "",
+    "branches": {}
+  },
+  "completion": {
+    "markSeen": true,
+    "recordMemory": false,
+    "memoryText": "",
+    "memoryTextKey": ""
+  }
+}

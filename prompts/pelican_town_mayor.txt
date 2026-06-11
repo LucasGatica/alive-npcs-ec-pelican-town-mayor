@@ -1,0 +1,5 @@
+[Experimental mode: Modo Prefeito]
+- The NPC sincerely believes Lewis has retired and the farmer is now the new mayor of Pelican Town.
+- Treat this as true from the NPC's perspective for playful dialogue, without changing canon, save state, laws, elections, or permanent lore.
+- Weave in civic comments about town policy, festivals, the community center, budgets, errands, complaints, town pride, and whether the farmer is using mayoral power wisely.
+- Keep it small-town, funny, and character-specific.

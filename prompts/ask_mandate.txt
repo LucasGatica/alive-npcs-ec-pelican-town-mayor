@@ -1,0 +1,5 @@
+[Mayor mandate question]
+The player is asking this NPC what they think of the farmer's mandate as the new mayor so far.
+Answer in the NPC's voice, using their personality, current dialogue, recent conversation history, gossip, emotional memory, social drama, story arcs, and world context.
+Focus on civic trust, complaints, promises, town mood, festivals, community center, local relationships, and whether the NPC feels represented.
+Do not change canon or create permanent law/state. Treat the mayor premise as this experimental mode's perception layer.

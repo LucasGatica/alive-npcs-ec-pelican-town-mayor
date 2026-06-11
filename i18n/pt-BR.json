@@ -1,0 +1,11 @@
+{
+  "ec.pelicanTownMayor.package.name": "[EC] AliveNpcs - Modo Prefeito",
+  "ec.pelicanTownMayor.package.description": "Pacote oficial de conteudo experimental para o Modo Prefeito.",
+  "ec.pelicanTownMayor.mode.name": "Modo Prefeito",
+  "ec.pelicanTownMayor.mode.description": "A Vila Pelicanos acha que Lewis se aposentou e que o fazendeiro virou prefeito.",
+  "ec.pelicanTownMayor.mode.status": "NPCs tratam o fazendeiro como novo prefeito da Vila Pelicanos, apenas como camada de percepcao divertida.",
+  "ec.pelicanTownMayor.action.askMandate.label": "Perguntar do mandato",
+  "ec.pelicanTownMayor.action.askMandate.tooltip": "Pergunta o que este NPC acha do seu mandato ate agora.",
+  "ec.pelicanTownMayor.scene.intro.title": "Lewis agradece ao novo prefeito",
+  "ec.pelicanTownMayor.scene.intro.script": "continue/64 15/farmer 64 15 2 Lewis 66 15 3/skippable/AliveNpcsSceneComplete Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro/speak Lewis \"Ah, ai esta voce, prefeito. Eu queria agradecer por assumir o cargo.\"/speak Lewis \"Agora que nao sou mais prefeito, pretendo levar a aposentadoria muito a serio.\"/emote Lewis 32/speak Lewis \"Se precisar de conselho, estarei por perto fazendo absolutamente nada oficial.\"/end"
+}

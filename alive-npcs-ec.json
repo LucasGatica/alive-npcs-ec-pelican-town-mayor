@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "packageId": "Lucas.AliveNpcs.EC.PelicanTownMayor",
+  "displayNameKey": "ec.pelicanTownMayor.package.name",
+  "descriptionKey": "ec.pelicanTownMayor.package.description",
+  "author": "Lucas Gatica",
+  "version": "1.3.2",
+  "aliveNpcsMinVersion": "1.3.2",
+  "modes": [
+    {
+      "id": "Lucas.AliveNpcs.EC.PelicanTownMayor/Mayor",
+      "legacyAliases": [
+        "PelicanTownMayor"
+      ],
+      "slug": "pelican_town_mayor",
+      "displayNameKey": "ec.pelicanTownMayor.mode.name",
+      "descriptionKey": "ec.pelicanTownMayor.mode.description",
+      "featureStatusKey": "ec.pelicanTownMayor.mode.status",
+      "exclusiveGroup": "dialogue-mode",
+      "promptBlocks": [
+        {
+          "path": "prompts/pelican_town_mayor.txt",
+          "maxChars": 1800,
+          "target": "dialogue"
+        }
+      ],
+      "dialogueActions": [
+        {
+          "id": "Lucas.AliveNpcs.EC.PelicanTownMayor/AskMandate",
+          "labelKey": "ec.pelicanTownMayor.action.askMandate.label",
+          "tooltipKey": "ec.pelicanTownMayor.action.askMandate.tooltip",
+          "promptPath": "prompts/ask_mandate.txt",
+          "maxPromptChars": 2200,
+          "placement": "response-menu",
+          "contextScopes": [
+            "currentDialogue",
+            "conversationHistory",
+            "gossip",
+            "emotionalProfile",
+            "storyArcs",
+            "socialDrama",
+            "worldState"
+          ],
+          "recordConversation": true
+        }
+      ],
+      "sceneEventDirectories": [
+        "scenes/pelican_town_mayor"
+      ],
+      "safety": {
+        "childPolicy": "allowed_non_romantic",
+        "romanceLevel": "none",
+        "violenceLevel": "none",
+        "canonMutation": "perception_only",
+        "requiresAdultOptIn": false
+      }
+    }
+  ]
+}

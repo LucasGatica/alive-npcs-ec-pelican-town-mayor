@@ -1,0 +1,11 @@
+{
+  "ec.pelicanTownMayor.package.name": "[EC] AliveNpcs - Pelican Town Mayor",
+  "ec.pelicanTownMayor.package.description": "Official experimental content package for Mayor Mode.",
+  "ec.pelicanTownMayor.mode.name": "Mayor Mode",
+  "ec.pelicanTownMayor.mode.description": "Pelican Town thinks Lewis retired and the farmer is mayor now.",
+  "ec.pelicanTownMayor.mode.status": "NPCs treat the farmer as Pelican Town's new mayor, as a playful perception layer only.",
+  "ec.pelicanTownMayor.action.askMandate.label": "Ask about mandate",
+  "ec.pelicanTownMayor.action.askMandate.tooltip": "Ask what this NPC thinks of your mandate so far.",
+  "ec.pelicanTownMayor.scene.intro.title": "Lewis thanks the new mayor",
+  "ec.pelicanTownMayor.scene.intro.script": "continue/64 15/farmer 64 15 2 Lewis 66 15 3/skippable/AliveNpcsSceneComplete Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro/speak Lewis \"There you are, Mayor. I wanted to thank you for taking office.\"/speak Lewis \"Now that I am no longer mayor, I intend to take retirement very seriously.\"/emote Lewis 32/speak Lewis \"If you need advice, I will be nearby doing absolutely nothing official.\"/end"
+}
