@@ -23,7 +23,7 @@ Ele pode adicionar:
 - prompts customizados para mudar o tom das conversas;
 - botoes extras no menu de resposta dos NPCs;
 - cenas customizadas ativadas apenas quando o modo esta selecionado;
-- textos localizados em `i18n`;
+- textos localizados em `i18n`(multiplos idiomas);
 - integracao com mods de codigo via API, para casos mais avancados.
 
 Este repo e **content-only**. Isso significa que ele nao tem DLL, nao precisa compilar e pode ser editado com qualquer editor de texto.
@@ -32,7 +32,7 @@ Este repo e **content-only**. Isso significa que ele nao tem DLL, nao precisa co
 
 - Stardew Valley
 - SMAPI
-- AliveNpcs `1.3.2` ou superior
+- AliveNpcs `1.3.3` ou superior
 
 ## Como Instalar Este Pacote
 
