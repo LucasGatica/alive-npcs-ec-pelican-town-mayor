@@ -4,8 +4,8 @@
   "displayNameKey": "ec.pelicanTownMayor.package.name",
   "descriptionKey": "ec.pelicanTownMayor.package.description",
   "author": "Lucas Gatica",
-  "version": "1.3.2",
-  "aliveNpcsMinVersion": "1.3.2",
+  "version": "1.3.3",
+  "aliveNpcsMinVersion": "1.3.3",
   "modes": [
     {
       "id": "Lucas.AliveNpcs.EC.PelicanTownMayor/Mayor",
@@ -22,6 +22,16 @@
           "path": "prompts/pelican_town_mayor.txt",
           "maxChars": 1800,
           "target": "dialogue"
+        },
+        {
+          "path": "prompts/pelican_town_mayor_gossip.txt",
+          "maxChars": 1000,
+          "target": "gossip"
+        },
+        {
+          "text": "Under the active Pelican Town Mayor EC mode, villagers frame the farmer's public conversations as mayoral conduct, civic judgment, campaign optics, town policy, or small-town complaints about the new administration.",
+          "maxChars": 700,
+          "target": "gossip_interaction"
         }
       ],
       "dialogueActions": [

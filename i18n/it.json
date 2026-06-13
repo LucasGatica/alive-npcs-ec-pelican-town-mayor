@@ -1,0 +1,11 @@
+{
+  "ec.pelicanTownMayor.package.name": "[EC] AliveNpcs - Sindaco di Pelican Town",
+  "ec.pelicanTownMayor.package.description": "Pacchetto ufficiale di contenuto sperimentale per la Modalità Sindaco.",
+  "ec.pelicanTownMayor.mode.name": "Modalità Sindaco",
+  "ec.pelicanTownMayor.mode.description": "Pelican Town crede che Lewis sia andato in pensione e che ora il contadino sia il sindaco.",
+  "ec.pelicanTownMayor.mode.status": "Gli NPC trattano il contadino come il nuovo sindaco di Pelican Town, solo come livello di percezione divertente.",
+  "ec.pelicanTownMayor.action.askMandate.label": "Chiedi del mandato",
+  "ec.pelicanTownMayor.action.askMandate.tooltip": "Chiedi cosa pensa questo NPC del tuo mandato finora.",
+  "ec.pelicanTownMayor.scene.intro.title": "Lewis ringrazia il nuovo sindaco",
+  "ec.pelicanTownMayor.scene.intro.script": "continue/64 15/farmer 64 15 2 Lewis 66 15 3/skippable/AliveNpcsSceneComplete Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro/speak Lewis \"Eccoti, Sindaco. Volevo ringraziarti per aver accettato l'incarico.\"/speak Lewis \"Ora che non sono più sindaco, intendo prendere la pensione molto sul serio.\"/emote Lewis 32/speak Lewis \"Se ti serve un consiglio, sarò qui vicino a non fare assolutamente nulla di ufficiale.\"/end"
+}

@@ -1,0 +1,11 @@
+{
+  "ec.pelicanTownMayor.package.name": "[EC] AliveNpcs - Maire de Pelican Town",
+  "ec.pelicanTownMayor.package.description": "Pack officiel de contenu expérimental pour le Mode Maire.",
+  "ec.pelicanTownMayor.mode.name": "Mode Maire",
+  "ec.pelicanTownMayor.mode.description": "Pelican Town pense que Lewis a pris sa retraite et que le fermier est maintenant maire.",
+  "ec.pelicanTownMayor.mode.status": "Les PNJ traitent le fermier comme le nouveau maire de Pelican Town, uniquement comme une couche de perception amusante.",
+  "ec.pelicanTownMayor.action.askMandate.label": "Parler du mandat",
+  "ec.pelicanTownMayor.action.askMandate.tooltip": "Demandez ce que ce PNJ pense de votre mandat jusqu'ici.",
+  "ec.pelicanTownMayor.scene.intro.title": "Lewis remercie le nouveau maire",
+  "ec.pelicanTownMayor.scene.intro.script": "continue/64 15/farmer 64 15 2 Lewis 66 15 3/skippable/AliveNpcsSceneComplete Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro/speak Lewis \"Te voilà, Maire. Je voulais te remercier d'avoir accepté le poste.\"/speak Lewis \"Maintenant que je ne suis plus maire, je compte prendre ma retraite très au sérieux.\"/emote Lewis 32/speak Lewis \"Si tu as besoin de conseils, je serai dans les parages à ne faire absolument rien d'officiel.\"/end"
+}

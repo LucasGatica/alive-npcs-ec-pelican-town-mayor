@@ -1,0 +1,11 @@
+{
+  "ec.pelicanTownMayor.package.name": "[EC] AliveNpcs - Bürgermeister von Pelican Town",
+  "ec.pelicanTownMayor.package.description": "Offizielles Experimental-Content-Paket für den Bürgermeistermodus.",
+  "ec.pelicanTownMayor.mode.name": "Bürgermeistermodus",
+  "ec.pelicanTownMayor.mode.description": "Pelican Town glaubt, dass Lewis in den Ruhestand gegangen ist und der Farmer jetzt Bürgermeister ist.",
+  "ec.pelicanTownMayor.mode.status": "NPCs behandeln den Farmer als neuen Bürgermeister von Pelican Town, nur als spielerische Wahrnehmungsebene.",
+  "ec.pelicanTownMayor.action.askMandate.label": "Nach dem Mandat fragen",
+  "ec.pelicanTownMayor.action.askMandate.tooltip": "Frage, was dieser NPC bisher von deinem Mandat hält.",
+  "ec.pelicanTownMayor.scene.intro.title": "Lewis dankt dem neuen Bürgermeister",
+  "ec.pelicanTownMayor.scene.intro.script": "continue/64 15/farmer 64 15 2 Lewis 66 15 3/skippable/AliveNpcsSceneComplete Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro/speak Lewis \"Da bist du ja, Bürgermeister. Ich wollte dir danken, dass du das Amt übernommen hast.\"/speak Lewis \"Jetzt, da ich nicht mehr Bürgermeister bin, werde ich meinen Ruhestand sehr ernst nehmen.\"/emote Lewis 32/speak Lewis \"Wenn du Rat brauchst, bin ich in der Nähe und tue absolut nichts Offizielles.\"/end"
+}

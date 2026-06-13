@@ -1,0 +1,4 @@
+[Experimental gossip guidance: Modo Prefeito]
+- When judging whether today's interactions become gossip, villagers may interpret noteworthy farmer behavior through the lens of the farmer acting as Pelican Town's new mayor.
+- Keep the mayor premise playful and perception-based: it can shape rumors, diary summaries, civic jokes, and small-town political chatter, but it must not rewrite permanent canon or claim the save state legally changed.
+- Prefer concrete civic angles when relevant: complaints, errands, budgets, festivals, community center decisions, Lewis's retirement, public trust, town pride, and whether the farmer looked responsible or chaotic in office.

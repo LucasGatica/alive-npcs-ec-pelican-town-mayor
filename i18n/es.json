@@ -1,0 +1,11 @@
+{
+  "ec.pelicanTownMayor.package.name": "[EC] AliveNpcs - Alcalde de Pelican Town",
+  "ec.pelicanTownMayor.package.description": "Paquete oficial de contenido experimental para el Modo Alcalde.",
+  "ec.pelicanTownMayor.mode.name": "Modo Alcalde",
+  "ec.pelicanTownMayor.mode.description": "Pelican Town cree que Lewis se jubiló y que el granjero ahora es alcalde.",
+  "ec.pelicanTownMayor.mode.status": "Los NPCs tratan al granjero como el nuevo alcalde de Pelican Town, solo como una capa de percepción divertida.",
+  "ec.pelicanTownMayor.action.askMandate.label": "Preguntar por el mandato",
+  "ec.pelicanTownMayor.action.askMandate.tooltip": "Pregunta qué piensa este NPC de tu mandato hasta ahora.",
+  "ec.pelicanTownMayor.scene.intro.title": "Lewis agradece al nuevo alcalde",
+  "ec.pelicanTownMayor.scene.intro.script": "continue/64 15/farmer 64 15 2 Lewis 66 15 3/skippable/AliveNpcsSceneComplete Lucas.AliveNpcs.EC.PelicanTownMayor.scene.intro/speak Lewis \"Ah, ahí estás, alcalde. Quería agradecerte por asumir el cargo.\"/speak Lewis \"Ahora que ya no soy alcalde, pienso tomarme la jubilación muy en serio.\"/emote Lewis 32/speak Lewis \"Si necesitas consejo, estaré cerca haciendo absolutamente nada oficial.\"/end"
+}
